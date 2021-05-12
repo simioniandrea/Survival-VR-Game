@@ -1,2 +1,2 @@
 # Survival-VR-Game
-![](/img/CG_3D-Presentation_1.pdf)
+![](/img/CG_3D-Presentation_1.png)
